@@ -1,2 +1,9 @@
 # King_VS_King
- A PvZ game in chess world write in C (School Project)
+A plant versus zombie inspired game, written in C, for the introductory C programming course.
+The graphics library used is written by my university, a simplification of the SDL.
+
+## Instal MLV library
+http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
+
+## video of the game:
+(maybe one day)
