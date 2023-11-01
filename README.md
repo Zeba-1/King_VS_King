@@ -4,6 +4,3 @@ The graphics library used is written by my university, a simplification of the S
 
 ## Instal MLV library
 http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html
-
-## video of the game:
-(maybe one day)
